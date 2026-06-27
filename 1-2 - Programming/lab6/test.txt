@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "coordinates": {
+      "x": ghfgfg,
+      "y": 1
+    },
+    "numberOfRooms": 1,
+    "numberOfBathrooms": 1,
+    "transport": null,
+    "house": null,
+    "creationDate": "2025-04-01T18:17:00.334841800+03:00[Europe/Moscow]",
+    "name": "1",
+    "area": 1.0
+  },
+  {
+    "id": 2,
+    "coordinates": {
+      "x": 2.0,
+      "y": 2
+    },
+    "numberOfRooms": 2,
+    "numberOfBathrooms": 2,
+    "transport": "FEW",
+    "house": {
+      "name": "dd",
+      "year": 3,
+      "numberOfFlatsOnFloor": 3
+    },
+    "creationDate": "2025-04-01T18:17:16.735057500+03:00[Europe/Moscow]",
+    "name": "2",
+    "area": 2.0
+  }
+]

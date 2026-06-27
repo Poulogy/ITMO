@@ -1,0 +1,752 @@
+апр. 29, 2025 12:58:30 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 12:58:59 AM Server.system.Console start
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 1:03:42 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:18:33 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:20:47 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:21:16 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:22:35 AM Server.system.Console start
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 1:26:21 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:29:46 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:31:35 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 1:40:07 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 2:36:43 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 2:52:00 AM Server.system.Console start
+INFO: Работа сервера завершена.
+апр. 29, 2025 2:52:14 AM Server.system.Console start
+INFO: Консоль запущена.
+апр. 29, 2025 3:04:21 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:04:21 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:04:38 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:04:45 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 3:04:45 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:04:45 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:05:55 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:05:55 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:06:08 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:06:14 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 3:06:14 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:06:14 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:06:59 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:06:59 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:07:04 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:07:16 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [clear].
+апр. 29, 2025 3:07:16 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [execute_script].
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [info].
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [execute_script].
+апр. 29, 2025 3:07:49 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:07:50 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:07:50 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:08:13 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:08:13 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:08:13 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:08:29 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_unique_house].
+апр. 29, 2025 3:08:29 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:08:38 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [info].
+апр. 29, 2025 3:08:38 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:08:42 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [head].
+апр. 29, 2025 3:08:42 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:09:07 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [remove_by_id].
+апр. 29, 2025 3:09:07 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:09:17 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [remove_first].
+апр. 29, 2025 3:09:17 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:09:23 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:09:23 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:09:42 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:09:42 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:10:06 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:10:06 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:10:18 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:10:18 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:10:27 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:10:48 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 3:10:48 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:11:19 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [info].
+апр. 29, 2025 3:11:19 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:31:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:31:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:32:53 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:32:53 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:32:59 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:32:59 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:33:07 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:33:10 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:33:10 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:34:57 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:34:57 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:35:09 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:35:09 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:35:19 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:35:23 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:35:23 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:35:43 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:35:43 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:36:05 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:36:08 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:36:08 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:37:26 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:37:26 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:37:34 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:37:34 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:37:39 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:37:41 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:37:41 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [execute_script].
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [info].
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [execute_script].
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:37:51 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:49:24 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:49:24 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:49:37 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:53:17 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:53:17 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:53:30 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:53:45 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:54:03 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:55:09 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:55:09 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:55:16 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:57:52 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:57:52 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:58:08 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:18:44 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:18:44 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:18:58 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:19:41 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 4:19:41 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 4:19:59 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:19:59 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:19:59 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:23:33 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:23:33 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:23:47 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:23:53 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:23:53 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:23:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:23:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:24:14 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add_if_min].
+апр. 29, 2025 4:24:14 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:24:32 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [remove_by_id].
+апр. 29, 2025 4:24:32 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:24:36 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:24:36 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:24:52 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add_if_min].
+апр. 29, 2025 4:24:52 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:25:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:25:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:25:11 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add_if_min].
+апр. 29, 2025 4:25:11 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:25:26 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [update_id].
+апр. 29, 2025 4:25:26 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:25:30 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:25:30 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:25:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:25:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:26:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:26:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:26:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:26:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:27:22 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [clear].
+апр. 29, 2025 4:27:22 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:27:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:27:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:27:34 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:27:34 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:27:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:27:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:27:55 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:27:55 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:28:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [head].
+апр. 29, 2025 4:28:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:28:34 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_ascending].
+апр. 29, 2025 4:28:34 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:29:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 4:29:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:29:09 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_unique_house].
+апр. 29, 2025 4:29:09 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:37:08 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 4:37:08 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:39:53 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:39:53 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:40:05 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:40:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_unique_house].
+апр. 29, 2025 4:40:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:40:33 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [clear].
+апр. 29, 2025 4:40:33 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:41:38 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:41:38 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:41:49 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:43:43 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:43:43 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:43:47 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:45:03 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:45:03 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:45:17 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:45:26 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [info].
+апр. 29, 2025 4:45:26 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:45:37 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:45:37 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:45:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:45:44 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:45:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:45:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:46:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_unique_house].
+апр. 29, 2025 4:46:01 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:46:06 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 4:46:06 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:49:41 AM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:49:41 AM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:49:52 AM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:49:59 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 4:50:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:50:11 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:50:11 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:50:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:50:25 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:50:38 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [add].
+апр. 29, 2025 4:50:38 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:50:41 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:50:41 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:50:58 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_ascending].
+апр. 29, 2025 4:50:58 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:51:12 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [remove_first].
+апр. 29, 2025 4:51:12 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:51:15 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:51:15 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:51:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [head].
+апр. 29, 2025 4:51:50 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:51:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [clear].
+апр. 29, 2025 4:51:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:52:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 4:52:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 4:52:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [exit].
+апр. 29, 2025 4:52:03 AM Server.system.ServerInit startIteratorLoop
+INFO: Отключение клиента.
+апр. 29, 2025 4:52:03 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 4:52:03 AM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:30:59 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:30:59 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:31:18 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:32:34 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:32:34 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:32:49 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:34:05 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:34:05 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:34:18 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:34:35 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:34:35 PM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:46:43 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:46:43 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:47:01 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:47:06 PM Server.system.Console run
+INFO: Работа сервера завершена.
+апр. 29, 2025 3:47:23 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:47:23 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:48:04 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 3:48:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [show].
+апр. 29, 2025 3:48:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:48:19 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [help].
+апр. 29, 2025 3:48:19 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:48:40 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [print_ascending].
+апр. 29, 2025 3:48:40 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:48:50 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер получил команду [head].
+апр. 29, 2025 3:48:50 PM Server.system.ServerInit startIteratorLoop
+INFO: Сервер отправил ответ клиенту.
+апр. 29, 2025 3:52:09 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 3:52:09 PM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 3:59:12 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 3:59:12 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 3:59:26 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:01:28 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 4:01:28 PM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 4:01:43 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:01:43 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:01:45 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:03:21 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 4:03:21 PM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 4:03:26 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:03:26 PM Server.system.ServerInit startServer
+INFO: Сервер запущен.
+апр. 29, 2025 4:03:39 PM Server.system.ServerInit lambda$startServer$0
+INFO: Подключение клиента.
+апр. 29, 2025 4:37:04 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Работа сервера завершена.
+апр. 29, 2025 4:37:04 PM Server.system.ServerInit startServer
+WARNING: Не удается принять клиентское соединение: Socket closed
+апр. 29, 2025 4:37:15 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:37:15 PM Server.system.Console run
+INFO: Консоль запущена.
+апр. 29, 2025 4:40:24 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:40:24 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:40:43 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 4:40:52 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add].
+апр. 29, 2025 4:40:52 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:40:55 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:40:55 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:41:03 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [print_ascending].
+апр. 29, 2025 4:41:03 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:41:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [clear].
+апр. 29, 2025 4:41:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:41:11 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:41:11 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:41:16 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Server exiting
+апр. 29, 2025 4:41:16 PM Server.system.ServerInit startServer
+WARNING: Can not receive client connection:  Socket closed
+апр. 29, 2025 4:42:15 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:42:15 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:42:19 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 4:42:28 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:42:28 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:42:43 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add].
+апр. 29, 2025 4:42:43 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:42:45 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:42:45 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:42:56 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [help].
+апр. 29, 2025 4:42:56 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:43:00 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [info].
+апр. 29, 2025 4:43:00 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:43:19 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [remove_by_id].
+апр. 29, 2025 4:43:19 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:43:21 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:43:21 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:43:42 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [print_unique_house].
+апр. 29, 2025 4:43:42 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:44:35 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:44:35 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:44:53 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add_if_min].
+апр. 29, 2025 4:44:53 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:44:56 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:44:56 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:45:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [update_id].
+апр. 29, 2025 4:45:09 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:45:11 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:45:11 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:45:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [print_unique_house].
+апр. 29, 2025 4:45:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:46:14 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:46:14 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:46:16 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 4:46:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [execute_script].
+апр. 29, 2025 4:46:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:46:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [info].
+апр. 29, 2025 4:46:26 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add].
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [execute_script].
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Server exiting
+апр. 29, 2025 4:46:34 PM Server.system.ServerInit startServer
+WARNING: Can not receive client connection:  Socket closed
+апр. 29, 2025 4:56:29 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:56:29 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:56:38 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:56:38 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:57:46 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 4:58:07 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add].
+апр. 29, 2025 4:58:07 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:58:16 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:58:16 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:58:20 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [clear].
+апр. 29, 2025 4:58:20 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:58:25 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [exit].
+апр. 29, 2025 4:58:25 PM Server.system.ServerInit startIteratorLoop
+INFO: Exiting client
+апр. 29, 2025 4:58:25 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Server exiting
+апр. 29, 2025 4:58:25 PM Server.system.ServerInit startServer
+WARNING: Can not receive client connection:  Socket closed
+апр. 29, 2025 4:58:30 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 4:58:30 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 4:58:38 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 4:58:44 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+апр. 29, 2025 4:58:44 PM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+апр. 29, 2025 4:58:46 PM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [exit].
+апр. 29, 2025 4:58:46 PM Server.system.ServerInit startIteratorLoop
+INFO: Exiting client
+апр. 29, 2025 4:58:46 PM Server.system.ServerInit startIteratorLoop
+SEVERE: Server exiting
+апр. 29, 2025 4:58:46 PM Server.system.ServerInit startServer
+WARNING: Can not receive client connection:  Socket closed
+апр. 29, 2025 5:11:09 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 5:11:09 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 5:11:40 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+апр. 29, 2025 5:13:30 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 5:13:30 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 5:42:49 PM Server.system.ServerInit startServer
+INFO: Server is running
+апр. 29, 2025 5:42:49 PM Server.system.Console run
+INFO: Console is running.
+апр. 29, 2025 5:43:23 PM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+мая 27, 2025 8:54:34 AM Server.system.ServerInit startServer
+INFO: Server is running
+мая 27, 2025 8:54:34 AM Server.system.Console run
+INFO: Console is running.
+мая 27, 2025 8:54:43 AM Server.system.ServerInit lambda$startServer$0
+INFO: Client connection
+мая 27, 2025 8:54:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [add].
+мая 27, 2025 8:54:56 AM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+мая 27, 2025 8:55:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [show].
+мая 27, 2025 8:55:00 AM Server.system.ServerInit startIteratorLoop
+INFO: Server sent response to client.
+мая 27, 2025 8:55:04 AM Server.system.ServerInit startIteratorLoop
+INFO: Server received a command: [exit].
+мая 27, 2025 8:55:04 AM Server.system.ServerInit startIteratorLoop
+INFO: Exiting client
+мая 27, 2025 8:55:04 AM Server.system.ServerInit startIteratorLoop
+SEVERE: Server exiting
+мая 27, 2025 8:55:04 AM Server.system.ServerInit startServer
+WARNING: Can not receive client connection:  Socket closed

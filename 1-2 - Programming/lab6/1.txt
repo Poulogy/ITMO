@@ -1,0 +1,48 @@
+[
+  {
+    "id": 4,
+    "coordinates": {
+      "x": 4.0,
+      "y": 4
+    },
+    "numberOfRooms": 4,
+    "numberOfBathrooms": 4,
+    "transport": "NONE",
+    "house": null,
+    "creationDate": "2025-04-29T16:57:53.707774700+03:00[Europe/Moscow]",
+    "name": "ffff",
+    "area": 4.0
+  },
+  {
+    "id": 2,
+    "coordinates": {
+      "x": 7.0,
+      "y": 7
+    },
+    "numberOfRooms": 7,
+    "numberOfBathrooms": 7,
+    "transport": null,
+    "house": {
+      "name": "t",
+      "year": 6,
+      "numberOfFlatsOnFloor": 5
+    },
+    "creationDate": "2025-04-29T04:50:13.639318500+03:00[Europe/Moscow]",
+    "name": "7",
+    "area": 7.0
+  },
+  {
+    "id": 3,
+    "coordinates": {
+      "x": 5.0,
+      "y": 5
+    },
+    "numberOfRooms": 5,
+    "numberOfBathrooms": 5,
+    "transport": "FEW",
+    "house": null,
+    "creationDate": "2025-04-29T04:50:27.514569700+03:00[Europe/Moscow]",
+    "name": "ccc",
+    "area": 5.0
+  }
+]
