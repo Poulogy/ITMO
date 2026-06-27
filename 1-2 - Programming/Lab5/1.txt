@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "coordinates": {
+      "x": 1.0,
+      "y": 1
+    },
+    "numberOfRooms": 1,
+    "numberOfBathrooms": 1,
+    "transport": null,
+    "house": null,
+    "creationDate": "2025-04-01T15:42:13.798944525+03:00[Europe/Moscow]",
+    "name": "111",
+    "area": 1.0
+  }
+]
