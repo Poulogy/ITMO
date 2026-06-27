@@ -1,0 +1,176 @@
+авг. 25, 2025 3:25:49 PM Server.databases.DataBaseConnector <init>
+SEVERE: DB driver is not found
+авг. 25, 2025 3:28:13 PM Server.ServerApp startServer
+INFO: Server is running.
+авг. 25, 2025 3:28:13 PM Server.system.Console run
+INFO: Console started
+авг. 25, 2025 3:29:26 PM Server.ServerApp startServer
+INFO: Server is running.
+авг. 25, 2025 3:29:26 PM Server.system.Console run
+INFO: Console started
+авг. 25, 2025 3:30:06 PM Server.ServerApp startServer
+INFO: Server is running.
+авг. 25, 2025 3:30:06 PM Server.system.Console run
+INFO: Console started
+авг. 25, 2025 3:30:30 PM Server.ServerApp accept
+INFO: Server received a client connection
+авг. 25, 2025 3:30:59 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:30:59 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:31:48 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:31:48 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:34:21 PM Server.ServerApp startServer
+INFO: Server is running.
+авг. 25, 2025 3:34:21 PM Server.system.Console run
+INFO: Console started
+авг. 25, 2025 3:35:08 PM Server.ServerApp accept
+INFO: Server received a client connection
+авг. 25, 2025 3:35:34 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:35:34 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:35:39 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:35:39 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:36:41 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:36:41 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:36:50 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:36:50 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:36:55 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:36:55 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:02 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:02 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:12 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:12 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:18 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:18 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:26 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:26 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:33 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:33 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:37:40 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:37:41 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:12 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:12 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:21 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:21 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:25 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:26 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:42 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:42 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:48 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:48 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:39:54 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:39:54 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:22 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:22 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:24 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:24 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:25 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:26 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:33 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:33 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:38 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:38 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:48 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:48 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:55 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:55 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:40:59 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:40:59 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:41:03 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:41:03 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:41:13 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:41:13 PM Server.requestHandler.RequestReader get
+INFO: Client unconnected
+авг. 25, 2025 3:42:13 PM Server.ServerApp accept
+INFO: Server received a client connection
+авг. 25, 2025 3:42:18 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:42:18 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:42:21 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:42:21 PM Server.requestHandler.RequestReader get
+INFO: Client unconnected
+авг. 25, 2025 3:45:03 PM Server.ServerApp accept
+INFO: Server received a client connection
+авг. 25, 2025 3:45:09 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:10 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:45:13 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:13 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:45:24 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:24 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:45:31 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:31 PM Server.requestHandler.RequestReader get
+INFO: Client unconnected
+авг. 25, 2025 3:45:34 PM Server.ServerApp accept
+INFO: Server received a client connection
+авг. 25, 2025 3:45:39 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:39 PM Server.requestHandler.ResponseSender accept
+INFO: Server sent an answer to client
+авг. 25, 2025 3:45:47 PM Server.ServerApp startIteratorLoop
+INFO: Client sent request
+авг. 25, 2025 3:45:47 PM Server.requestHandler.RequestReader get
+INFO: Client unconnected
