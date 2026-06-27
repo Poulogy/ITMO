@@ -1,0 +1,36 @@
+cd lab0
+chmod uo= bidoof4  
+chmod g=rw bidoof4 
+chmod 555 graveler6
+cd graveler6
+chmod 750 bonsly
+chmod 066 whiscash
+chmod 357 azurill
+chmod 440 trubbish
+chmod uo+wx simisear
+chmod o-r simisear
+chmod g=rx simisear
+cd ..
+chmod 604 igglybuff5
+chmod u=wx scolipede7
+chmod g=rw scolipede7
+chmod o=x scolipede7
+cd scolipede7
+chmod ugo= beautifly
+chmod uo=r beautifly
+chmod ugo= dusknoir
+chmod ug=r dusknoir
+chmod u+w dusknoir
+chmod 660 sharpedo
+chmod 307 jynx
+cd ..
+chmod ugo= shedinja5
+chmod uo=r shedinja5
+chmod u+w shedinja5
+chmod 373 shellos5
+cd shellos5
+chmod 337 bayleef
+chmod 570 alakazam
+chmod 335 lucario
+chmod 312 shiftry
+cd ../..

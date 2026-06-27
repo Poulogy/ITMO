@@ -1,0 +1,23 @@
+cd lab0
+rm shedinja5
+
+chmod u+w graveler6
+chmod u+w graveler6/trubbish
+rm graveler6/trubbish
+
+
+chmod u+r scolipede7
+rm scolipede7/sharpedoshedinja
+rm scolipede7/sharpedoshedinja1
+chmod u-r scolipede7
+
+chmod u+w graveler6
+chmod u+r graveler6/azurill
+chmod u+rw graveler6/whiscash
+rmdir graveler6/simisear
+rmdir graveler6/azurill
+rmdir graveler6/bonsly
+cd graveler6
+rm *
+cd ..
+rmdir graveler6

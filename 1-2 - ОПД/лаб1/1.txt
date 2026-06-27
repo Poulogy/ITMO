@@ -1,0 +1,27 @@
+mkdir lab0
+cd lab0
+echo "Тип диеты Herbivore" > bidoof4
+mkdir graveler6
+cd graveler6
+mkdir bonsly
+echo "Тип диеты" "Herbivore" > whiscash
+mkdir azurill
+echo "Развитые способности  Aftermath" > trubbish
+mkdir simisear
+cd ..
+echo "satk=4" "sdef=2 spd=2" > igglybuff5
+mkdir scolipede7
+cd scolipede7
+echo "Живёт  Forest Rainforest" > beautifly
+echo "Живёт  Cave" > dusknoir
+echo "Возможности  Overland=2 Surface=14" "Underwater=12 Jump5=0 Power=4 Intelligence=4" "Gilled=0" > sharpedo
+mkdir jynx
+cd ..
+echo "satk=3 sdef=3 spd=4" > shedinja5
+mkdir shellos5
+cd shellos5
+mkdir bayleef
+mkdir alakazam
+mkdir lucario
+mkdir shiftry
+cd ../..

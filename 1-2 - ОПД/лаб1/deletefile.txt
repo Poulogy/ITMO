@@ -1,0 +1,53 @@
+chmod u+r scolipede7
+chmod u+r scolipede7/jynx
+chmod u+w scolipede7/beautifly
+chmod u+r shellos5
+chmod u+r shellos5/bayleef
+chmod u+r shellos5/shiftry
+chmod u+r shellos5/lucario
+chmod u+rw bidoof4
+chmod u+w graveler6
+chmod u+r graveler6/azurill
+chmod u+r graveler6/whiscash
+chmod u+w graveler6/trubbish
+chmod u+w graveler6/whiscash
+cd scolipede7
+cd jynx
+cd scolipede7
+cd jynx
+rm *
+cd --
+cd lab0
+cd scolipede7
+cd jynx
+rmdir *
+rm *
+cd --
+cd lab0
+cd scolipede7
+rm *
+cd jynx/scolipede7
+rm *
+rmdir * 
+cd --
+cd lab0/scolipede7/jynx
+rmdir *
+cd ..
+cd lab0/scolipede7
+rmdir *
+cd ..
+cd graveler6
+rm *
+cd bonsly
+rmdir *
+rm *
+cd ..
+rmdir *
+cd ..
+cd shellos5
+rmdir *
+cd ..
+rmdir *
+rm *
+cd ..
+rmdir lab0

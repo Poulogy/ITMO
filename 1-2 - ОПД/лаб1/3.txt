@@ -1,0 +1,37 @@
+cd lab0
+cp igglybuff5 scolipede7/jynx
+
+ln -P shedinja5 sharpedoshedinja
+mv sharpedoshedinja scolipede7
+
+chmod u+r scolipede7
+chmod u+r scolipede7/jynx
+chmod u+wx scolipede7/beautifly
+chmod u+x scolipede7/dusknoir
+chmod u+x scolipede7/sharpedo
+cp -r scolipede7 scolipede7/jynx
+chmod u-r scolipede7
+chmod u-wx scolipede7/beautifly
+chmod u-x scolipede7/dusknoir
+chmod u-r scolipede7/jynx
+chmod u-x scolipede7/sharpedo
+
+chmod u+w graveler6
+echo "" > graveler6/trubbishigglybuff
+cp igglybuff5 graveler6/trubbishigglybuff
+chmod u-w graveler6
+
+chmod u+r shellos5
+ln -s shellos5 Copy_87
+chmod u-r shellos5
+
+chmod u+w graveler6
+chmod u+r scolipede7
+chmod u+rwx graveler6/whiscash
+echo "" > igglybuff5_23
+cat graveler6/whiscash scolipede7/sharpedo > igglybuff5_23
+chmod u-w graveler6
+chmod u-r scolipede7
+chmod u-rwx graveler6/whiscash
+cd ..
+ln -s ../shedinja5 lab0/scolipede7/sharpedoshedinja1

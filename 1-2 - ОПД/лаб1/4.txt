@@ -1,0 +1,16 @@
+cd lab0
+echo '4.1'
+wc -m shedinja5 &> /tmp/errors1.txt
+echo '4.2'
+ls -R 2>&1 | tail -n 3 | sort
+echo '4.3'
+cat scolipede7/dusknoir scolipede7/beautifly graveler6/whiscash graveler6/trubbish | grep "in"
+echo '4.4'
+cat shedinja5 2> /tmp/errors4.txt | sort -r
+echo '4.5'
+cat s* */s* */*/s* 2> /tmp/errors88.txt | sort -r
+echo '4.6'
+cat -n graveler6/whiscash graveler6/trubbish 2> /dev/null | grep -v "e&" 
+cd ..
+
+
