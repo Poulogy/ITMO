@@ -1,0 +1,22 @@
+networks:
+  App:
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Server/Dockerfile
+    networks:
+      - App
+  nginx:
+    build:
+      context: ./HtmlCss
+      dockerfile: Dockerfile
+    ports:
+      - "9021:80"
+    volumes:
+      - ./HtmlCss:/usr/share/nginx/html
+    depends_on:
+      - server
+    networks:
+      - App

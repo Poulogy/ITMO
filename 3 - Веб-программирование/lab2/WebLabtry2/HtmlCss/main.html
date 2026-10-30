@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <title>Веб-программирование; Лабораторная №1</title>
+    <link rel="icon" type="image/jpg" href="pictures/TwiJPG.jpg">
+    <link rel="stylesheet" href="styles/main.css">
+    <script type="text/javascript" src="http://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=aP1W8aRNE8GzCfHf8g04QdACX-d5_jkx6dHg906q4XdSn2fUHNLn6iPJOwB_kPC9" charset="UTF-8"></script>
+</head>
+<body>
+<header>
+    <h1>Лабораторная работа №1; Вариант 465755</h1>
+    <p>Джантуре Назерке</p>
+    <p>Группа: Р3208</p>
+</header>
+
+<div class="github-link">
+    <a href="https://github.com/Nazerkusha" target="_blank">
+        <img src="pictures/GitLable.png" alt="GitHub">
+    </a>
+</div>
+
+<div class="container">
+    <div class="parametr-container">
+        <h2>Параметры точки</h2>
+            <div class="parametr-group">
+                <label>Выберите R:</label>
+                <div class="radio-group" id="r-radio">
+                    <label><input type="radio" name="r" value="1" required> 1</label>
+                    <label><input type="radio" name="r" value="1.5"> 1.5</label>
+                    <label><input type="radio" name="r" value="2"> 2</label>
+                    <label><input type="radio" name="r" value="2.5"> 2.5</label>
+                    <label><input type="radio" name="r" value="3"> 3</label>
+                </div>
+            </div>
+
+            <div class="parametr-group">
+                <label>Выберите X:</label>
+                <div class="radio-group" id="x-radio">
+                    <label><input type="radio" name="x" value="-3" required> -3</label>
+                    <label><input type="radio" name="x" value="-2"> -2</label>
+                    <label><input type="radio" name="x" value="-1"> -1</label>
+                    <label><input type="radio" name="x" value="0"> 0</label>
+                    <label><input type="radio" name="x" value="1"> 1</label>
+                    <label><input type="radio" name="x" value="2"> 2</label>
+                    <label><input type="radio" name="x" value="3"> 3</label>
+                    <label><input type="radio" name="x" value="4"> 4</label>
+                    <label><input type="radio" name="x" value="5"> 5</label>
+                </div>
+            </div>
+
+            <div class="parametr-group">
+                <label for="y">Введите Y:</label>
+                <input type="text" id="y" placeholder="Введите Y от -5 до 5" required pattern="-?\d+(\.\d+)?" oninput="validateY()">
+            </div>
+            <div class="buttons-container">
+                <button type="submit" class="image-button" onclick="update()">
+                    <img src="pictures/Button.png" alt="Проверить точку">
+                </button>
+                <button type="reset" class="image-buttonClear" onclick="clearTable()">
+                    <img src="pictures/ButtonClear.png" alt="Очистить">
+                </button>
+            </div>
+
+
+        </form>
+    </div>
+
+    <div class="graph-container">
+        <h2>График области</h2>
+        <div class="graph"></div>
+    </div>
+</div>
+    <div class="results-container">
+        <h2>Результаты проверки</h2>
+        <table id="results-table">
+            <thead>
+            <tr>
+                <th>R</th>
+                <th>X</th>
+                <th>Y</th>
+                <th>Время запроса</th>
+                <th>Результат</th>
+                <th>Время выполнения (мс)</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</body>
+    <script src="js/loadStorage.js" defer></script>
+    <script src="js/clearT.js" defer></script>
+    <script src="js/valid.js" defer></script>
+    <script src="js/updateT.js" defer></script>
+</html>
