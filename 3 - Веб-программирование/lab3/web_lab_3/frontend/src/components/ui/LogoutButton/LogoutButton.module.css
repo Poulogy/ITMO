@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.logoutButton {
+    padding: 10px 20px;
+    border: 2px solid #857466;
+    border-radius: 15px;
+    background-color: white;
+    color: #667785;
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+    font-family: 'Playfair Display', serif;
+}
+
+.logoutButton:hover {
+    background-color: #E3EDFA;
+}
+
+@media (max-width: 727px) {
+    .container {
+        margin: 10px;
+    }
+
+    .logoutButton {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+}

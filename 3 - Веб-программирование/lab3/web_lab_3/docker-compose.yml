@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+      - "9990:9990"
+    environment:
+      - INFLUXDB_URL=http://influxdb:8086
+      - INFLUXDB_TOKEN=H1WwiUyu2DNsmAm-hpQCKoAuKz6v7N0BhFXnk6DWIOsNWtk0CI3HQDhDrL6RiySr6Er_KipmWyTBJPqDfF53Bg==
+      - INFLUXDB_ORG=P3208
+      - INFLUXDB_BUCKET=Points
+    depends_on:
+      - influxdb
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "9070:9070"
+    depends_on:
+      - backend
+
+  influxdb:
+    image: influxdb:2.7
+    ports:
+      - "8086:8086"
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=465755
+      - DOCKER_INFLUXDB_INIT_PASSWORD=11111111
+      - DOCKER_INFLUXDB_INIT_ORG=P3208
+      - DOCKER_INFLUXDB_INIT_BUCKET=Points
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=H1WwiUyu2DNsmAm-hpQCKoAuKz6v7N0BhFXnk6DWIOsNWtk0CI3HQDhDrL6RiySr6Er_KipmWyTBJPqDfF53Bg==
+    volumes:
+      - influxdb_data:/var/lib/influxdb2
+
+volumes:
+  influxdb_data:

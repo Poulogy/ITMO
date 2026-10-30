@@ -1,0 +1,48 @@
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.formGroup label {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.input {
+    font-family: 'Old Standard TT', serif;
+    font-size: 15px;
+    background-color: #ffdcfa;
+    color: #2f0535;
+    padding: 15px;
+    border: 1px solid #cf04b3;
+    border-radius: 9px;
+    width: 100%;
+}
+
+.error {
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+}
+
+.error.show {
+    opacity: 1;
+}
+
+@media (max-width: 727px) {
+    .formGroup label {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .input {
+        padding: 10px;
+    }
+}

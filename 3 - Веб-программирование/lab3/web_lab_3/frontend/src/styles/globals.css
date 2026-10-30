@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Old Standard TT', serif;
+    font-weight: 500;
+    color: #ba04a1;
+    line-height: 1.6;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+input, select {
+    font-family: inherit;
+    outline: none;
+}
+
+.error-message {
+    color: #b5012a;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 5px;
+    animation: fadeInOut 4s forwards;
+}
+
+@keyframes fadeInOut {
+    0% { opacity: 0; }
+    25% { opacity: 1; }
+    75% { opacity: 1; }
+    100% { opacity: 0; }
+}

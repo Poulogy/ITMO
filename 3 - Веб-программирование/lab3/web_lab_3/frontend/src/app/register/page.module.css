@@ -1,0 +1,86 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 160px auto;
+    position: relative;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 40px;
+}
+
+.button {
+    padding: 12px 24px;
+    border: 2px solid #cf04b3;
+    border-radius: 15px;
+    background-color: #ffdcfa;
+    color: #2f0535;
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+}
+
+.button:hover:not(:disabled) {
+    background-color: #E3EDFA;
+}
+
+.button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.link {
+    text-align: center;
+    color: #2f0535;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #cf04b3;
+    border-radius: 15px;
+    transition: all 0.4s ease-out;
+}
+
+.link:hover {
+    background-color: #E3EDFA;
+}
+
+.serverError {
+    margin-top: 20px;
+    color: #ef022e;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Планшетный */
+@media (max-width: 1045px) and (min-width: 728px) {
+    .loginForm {
+        margin: 120px auto;
+        max-width: 500px;
+    }
+}
+
+/* Мобильный */
+@media (max-width: 727px) {
+    .loginForm {
+        margin: 80px auto;
+        padding: 0 20px;
+        max-width: 400px;
+    }
+
+    .buttonContainer {
+        margin-top: 20px;
+    }
+
+    .button, .link {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}

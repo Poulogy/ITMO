@@ -1,0 +1,52 @@
+.field {
+    margin: 30px 0;
+    position: relative;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+.radioGroup {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    margin-top: 0.5%;
+}
+.input[type="radio"] {
+    margin-right: 2%;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    color: #2f0535;
+    padding: 10px;
+}
+
+
+
+.error {
+    position: absolute;
+    left: 0;
+    opacity: 0;
+}
+
+.error.show {
+    opacity: 1;
+}
+
+
+@media (max-width: 727px) {
+    .field {
+        margin: 20px 0;
+    }
+
+    .label {
+        font-size: 16px;
+    }
+
+    .select {
+        font-size: 14px;
+        padding: 8px;
+    }
+}

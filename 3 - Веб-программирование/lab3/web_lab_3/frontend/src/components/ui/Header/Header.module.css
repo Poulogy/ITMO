@@ -1,0 +1,54 @@
+.header {
+    background: linear-gradient(135deg, #c43ba9 0%, #71108c 100%);
+    color: #f06ab2;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+.headerContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.githubIcon {
+    width: 45px;
+    height: 40px;
+}
+.githubIcon:hover {
+    transform: scale(130%);
+}
+
+
+
+@media (max-width: 1045px) and (min-width: 728px) {
+    .header {
+        margin: 10px 15px;
+        padding: 12px;
+    }
+
+    .headerContent {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media (max-width: 727px) {
+    .header {
+        margin: 10px 5px;
+        padding: 10px;
+    }
+
+    .githubIcon {
+        width: 30px;
+        height: 35px;
+    }
+    .githubIcon:hover img {
+        transform: scale(1.1);
+    }
+
+}

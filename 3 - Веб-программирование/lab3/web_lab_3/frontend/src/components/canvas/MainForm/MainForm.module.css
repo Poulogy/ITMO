@@ -1,0 +1,239 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 60px;
+    margin: 20px auto;
+    padding: 0;
+    width: 100%;
+    max-width: 1400px;
+    box-sizing: border-box;
+}
+
+.leftColumn {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    min-width: 0;
+    align-items: flex-start;
+    box-sizing: border-box;
+}
+
+.form {
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 22px;
+    width: 100%;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.button {
+    padding: 12px 24px;
+    border: 2px solid rgba(207, 4, 179, 0.5);
+    border-radius: 15px;
+    background-color: white;
+    font-family: 'Playfair Display', serif;
+    color: #ff00dd;
+    cursor: pointer;
+    transition: all 0.4s ease-out;
+    font-size: 16px;
+    flex: 1;
+    max-width: 200px;
+}
+
+.button:hover {
+    background-color: #E3EDFA;
+    transform: translateY(-2px);
+}
+
+.button:active {
+    transform: translateY(0);
+}
+
+.historyHeader {
+    display: inline-block;
+    background-color: rgba(255, 218, 252, 0.8);
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom: 15px;
+    text-align: center;
+    align-items: flex-start;
+    color: #2f0535;
+    font-weight: 600;
+}
+
+.loading {
+    text-align: center;
+    font-size: 20px;
+    color: #2f0535;
+    margin: 50px 0;
+}
+
+.error {
+    text-align: center;
+    font-size: 18px;
+    color: #AB452B;
+    margin: 50px 0;
+    padding: 20px;
+    background-color: rgba(250, 240, 227, 0.8);
+    border-radius: 10px;
+    border: 1px solid #AB452B;
+}
+
+.serverError {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 12px;
+    background-color: rgba(171, 69, 43, 0.1);
+    border: 1px solid #AB452B;
+    border-radius: 8px;
+    color: #AB452B;
+    font-weight: bold;
+    font-family: serif;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.serverError.show {
+    opacity: 1;
+}
+
+@media (max-width: 1045px) and (min-width: 728px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+        margin: 15px auto;
+    }
+
+    .leftColumn {
+        width: 90%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .form {
+        align-items: center;
+        width: 100%;
+        max-width: 600px;
+        font-size: 19px;
+    }
+
+    .buttonContainer {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .button {
+        max-width: 180px;
+        padding: 10px 20px;
+    }
+
+    .historyHeader {
+        font-size: 26px;
+        margin-top: 60px;
+        padding: 10px 16px;
+    }
+
+    .loading, .error {
+        font-size: 18px;
+        margin: 40px 0;
+    }
+}
+
+@media (max-width: 727px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        margin: 10px auto;
+        padding: 0 10px;
+    }
+
+    .leftColumn {
+        width: 95%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .form {
+        width: 100%;
+        align-items: flex-start;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .buttonContainer {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        margin-top: 15px;
+    }
+
+    .button {
+        width: 100%;
+        max-width: 250px;
+        height: 45px;
+        font-size: 15px;
+        padding: 10px;
+    }
+
+    .historyHeader {
+        font-size: 22px;
+        margin-top: 40px;
+        margin-bottom: 10px;
+        padding: 8px 12px;
+    }
+
+    .loading, .error {
+        font-size: 16px;
+        margin: 30px 0;
+        padding: 15px;
+    }
+
+    .serverError {
+        font-size: 14px;
+        padding: 10px;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 300px) {
+    .container {
+        padding: 0 5px;
+    }
+
+    .form {
+        font-size: 14px;
+    }
+
+    .button {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .historyHeader {
+        font-size: 20px;
+        padding: 6px 10px;
+        margin-top: 30px;
+    }
+
+    .loading, .error {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
